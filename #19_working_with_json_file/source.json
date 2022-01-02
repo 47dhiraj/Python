@@ -1,0 +1,18 @@
+{
+  "firstName": "John",
+  "lastName": "Doe",
+  "gender": "male",
+  "age": 25,
+  "address": {
+    "streetAddress": "kawasoti",
+    "city": "Nawalpur",
+    "state": "Lumbini",
+    "postalCode": "12345"
+  },
+  "phoneNumbers": [
+    {
+      "type": "personal",
+      "number": "9840000000"
+    }
+  ]
+}

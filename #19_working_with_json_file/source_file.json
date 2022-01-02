@@ -1,0 +1,18 @@
+{
+  "firstName": "Agent",
+  "lastName": "47",
+  "gender": "male",
+  "age": 25,
+  "address": {
+    "streetAddress": "Mxn-123",
+    "city": "Martian",
+    "state": "Mars",
+    "postalCode": "12345"
+  },
+  "phoneNumbers": [
+    {
+      "type": "personal",
+      "number": "9840000000"
+    }
+  ]
+}

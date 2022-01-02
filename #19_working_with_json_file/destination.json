@@ -1,0 +1,18 @@
+{
+  "firstName": "Lakhan",
+  "lastName": "Chaudhary",
+  "gender": "male",
+  "age": 25,
+  "address": {
+    "streetAddress": "Lakhan chowk",
+    "city": "Lakhaniya",
+    "state": "Lumbini",
+    "postalCode": "12345"
+  },
+  "phoneNumbers": [
+    {
+      "type": "personal",
+      "number": "9840000000"
+    }
+  ]
+}
